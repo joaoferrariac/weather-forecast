@@ -1,6 +1,6 @@
 # Aplicativo de Previsão do Tempo
 
-![Captura de Tela do Aplicativo](adicionar-imagem-aqui)
+![Captura de Tela do Aplicativo](assets/weather-forecast.png)
 
 ## 📌 Visão Geral
 Aplicativo de previsão do tempo desenvolvido em Python utilizando a API do OpenWeatherMap. Exibe condições climáticas atuais e previsão para os próximos 4 dias, com opção de trocar a cidade.
