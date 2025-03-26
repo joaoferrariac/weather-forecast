@@ -1,0 +1,42 @@
+# .gitignore para Weather App Python
+
+# Ambientes Python
+venv/
+.env/
+.venv/
+ENV/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE/Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dados/Sensíveis
+*.db
+*.sqlite3
+.env
+*.local
+
+# Sistema/OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build/Distribuição
+build/
+dist/
+*.egg-info/
+
+# Logs/Testes
+*.log
+.pytest_cache/
+.coverage
+
+# Assets temporários
+assets/tmp/
